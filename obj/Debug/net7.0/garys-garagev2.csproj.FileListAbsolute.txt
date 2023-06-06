@@ -1,0 +1,15 @@
+C:\Users\James AKA BOSSMAN\workspace\csharp\exercises\garys-garagev2\bin\Debug\net7.0\garys-garagev2.exe
+C:\Users\James AKA BOSSMAN\workspace\csharp\exercises\garys-garagev2\bin\Debug\net7.0\garys-garagev2.deps.json
+C:\Users\James AKA BOSSMAN\workspace\csharp\exercises\garys-garagev2\bin\Debug\net7.0\garys-garagev2.runtimeconfig.json
+C:\Users\James AKA BOSSMAN\workspace\csharp\exercises\garys-garagev2\bin\Debug\net7.0\garys-garagev2.dll
+C:\Users\James AKA BOSSMAN\workspace\csharp\exercises\garys-garagev2\bin\Debug\net7.0\garys-garagev2.pdb
+C:\Users\James AKA BOSSMAN\workspace\csharp\exercises\garys-garagev2\obj\Debug\net7.0\garys-garagev2.csproj.AssemblyReference.cache
+C:\Users\James AKA BOSSMAN\workspace\csharp\exercises\garys-garagev2\obj\Debug\net7.0\garys-garagev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\James AKA BOSSMAN\workspace\csharp\exercises\garys-garagev2\obj\Debug\net7.0\garys-garagev2.AssemblyInfoInputs.cache
+C:\Users\James AKA BOSSMAN\workspace\csharp\exercises\garys-garagev2\obj\Debug\net7.0\garys-garagev2.AssemblyInfo.cs
+C:\Users\James AKA BOSSMAN\workspace\csharp\exercises\garys-garagev2\obj\Debug\net7.0\garys-garagev2.csproj.CoreCompileInputs.cache
+C:\Users\James AKA BOSSMAN\workspace\csharp\exercises\garys-garagev2\obj\Debug\net7.0\garys-garagev2.dll
+C:\Users\James AKA BOSSMAN\workspace\csharp\exercises\garys-garagev2\obj\Debug\net7.0\refint\garys-garagev2.dll
+C:\Users\James AKA BOSSMAN\workspace\csharp\exercises\garys-garagev2\obj\Debug\net7.0\garys-garagev2.pdb
+C:\Users\James AKA BOSSMAN\workspace\csharp\exercises\garys-garagev2\obj\Debug\net7.0\garys-garagev2.genruntimeconfig.cache
+C:\Users\James AKA BOSSMAN\workspace\csharp\exercises\garys-garagev2\obj\Debug\net7.0\ref\garys-garagev2.dll
